@@ -1,0 +1,99 @@
+.main-section {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #4d4e53;
+}
+
+main {
+  margin-left: 310px;
+}
+
+body {
+  background-color: #f2f2ec;
+}
+
+#navbar {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  position: fixed;
+  min-width: 290px;
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height: 100%;
+  border-right: solid;
+  border-color: rgba(0, 22, 22, 0.4);
+  background-color: #5d3b45;
+  overflow: auto;
+}
+
+@media (max-width: 800px) {
+  body {
+    background-image: url(https://i.imgur.com/YBT7CMi.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #navbar {
+    background: none;
+    border-right: none;
+  }
+  nav ul {
+    display: none;
+  }
+  main {
+    display: none;
+  }
+  #how {
+    margin-left: 200px;
+    margin-top: 15px;
+  }
+}
+
+header {
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  margin: none;
+}
+
+nav header {
+  margin: 40px 0 0 30px;
+  color: #dfe0d1;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0 40px 0 30px;
+}
+
+nav a {
+  color: #dfe0d1;
+  text-decoration: none;
+}
+
+nav li {
+  margin: 20px 0px;
+}
+
+nav a:hover {
+  color: #c4c58f;
+}
+
+.main-section {
+  margin: 25px 55px;
+}
+
+code {
+  display: flex;
+  background-color: #d1d1d1;
+  padding: 15px;
+  margin: 25px 0px 25px 20px;
+  border-radius: 6px;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0px;
+}
