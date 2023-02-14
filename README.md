@@ -1,6 +1,6 @@
 # Animnonicles Product Page
 
-> A fairly simple project from my first days of coding! Many thanks to [Free Code Camp](https://www.freecodecamp.org/) for all their guidance and support! Live demo to go here (coming soon).
+> A fairly simple project from my first days of coding! Many thanks to [freeCodeCamp](https://www.freecodecamp.org/) for all their guidance and support! Live demo to go here (coming soon).
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@
 
 ---
 
-This project was to build a single page website that was a documentation page. I got a little creative and focused more on the topic for documentiation that I probably should have. This project was part of the [FreeCodeCamp](https://www.freecodecamp.org/) coding basics courses and was one of the first projects I ever built.
+This project was to build a single page website that was a documentation page. I got a little creative and focused more on the topic for documentiation that I probably should have. This project was part of the [freeCodeCamp](https://www.freecodecamp.org/) coding basics courses and was one of the first projects I ever built.
 
 ## Technologies Used
 
@@ -117,7 +117,7 @@ To do:
 
 ---
 
-This project was taken from [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course from [FreeCodeCamp](https://www.freecodecamp.org)
+This project was taken from [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course from [freeCodeCamp](https://www.freecodecamp.org)
 
 ##Contact
 
