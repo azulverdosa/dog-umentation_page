@@ -23,7 +23,7 @@
 
 ---
 
-This project was to build a single page website that was a documentation page. I got a little creative and focused more on the topic for documentiation that I probably should have. This project was part of the [Free Code Camp](https://www.freecodecamp.org/) coding basics courses and was one of the first projects I ever built.
+This project was to build a single page website that was a documentation page. I got a little creative and focused more on the topic for documentiation that I probably should have. This project was part of the [FreeCodeCamp](https://www.freecodecamp.org/) coding basics courses and was one of the first projects I ever built.
 
 ## Technologies Used
 
