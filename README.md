@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
----
-
 - [General Info](#general)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -21,13 +19,9 @@
 
 ## General Information
 
----
-
 This project was to build a single page website that was a documentation page. I got a little creative and focused more on the topic for documentiation that I probably should have. This project was part of the [freeCodeCamp](https://www.freecodecamp.org/) coding basics courses and was one of the first projects I ever built.
 
 ## Technologies Used
-
----
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
@@ -35,15 +29,11 @@ This project was to build a single page website that was a documentation page. I
 
 ## Features
 
----
-
 Code snippets <br/>
 Side NavBar<br/>
 Cute Instructions on how to dog
 
 ## Screenshots
-
----
 
 Top of page showing side NaveBar:
 ![Home Page](/UI/screenshots/1.png 'Home Page')
@@ -58,8 +48,6 @@ Top of page showing logo and about section.
 Bottom of page shoing video and testimonials.
 
 ## Setup
-
----
 
 ### Run Locally
 
@@ -86,19 +74,13 @@ Runs the server. Open [http://localhost:XXXX](http://localhost:XXXX) to view it 
 
 ## Usage
 
----
-
 At the moment there is no real functionality to the page, simple a place to view some silly documentation on how to be a dog, however I am going to try to think of some functionality I can try to add to it.
 
 ## Project Status
 
----
-
 Project is: Complete
 
 ## Room for Improvement
-
----
 
 This project is over a year old now and having learned a few more things I'm re-visiting it to add some upgrades. I have already added a backend API to start but will need to add functionality as well.
 
@@ -114,21 +96,15 @@ To do:
 
 ## Acknowledgements
 
----
-
 This project was taken from [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course from [freeCodeCamp](https://www.freecodecamp.org)
 
 ##Contact
-
----
 
 Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
 
 - [LinkedIn](https://www.linkedin.com/in/avatorre/ 'linked')
 
 ## 🤝 Support
-
----
 
 Contributions, issues, and feature requests are welcome!
 
