@@ -9,8 +9,8 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Setup](#setup)
-  - [Dependencies](#dependencies)
-  - [Available Commands](#available-commands)
+- [Dependencies](#dependencies)
+- [Available Commands](#available-commands)
 - [Usage](#usage)
 - [Project Status](#project-status)
 - [Room for Improvement](#room-for-improvement)
@@ -19,7 +19,7 @@
 
 ## General Information
 
-This project was to build a single page website that was a documentation page. I got a little creative and focused more on the topic for documentiation that I probably should have. This project was part of the [freeCodeCamp](https://www.freecodecamp.org/) coding basics courses and was one of the first projects I ever built.
+This project was to build a single page website that was a documentation page. I got a little creative and focused more on the topic for documentation that I probably should have. This project was part of the [freeCodeCamp](https://www.freecodecamp.org/) coding basics courses and was one of the first projects I ever built.
 
 ## Technologies Used
 
@@ -45,7 +45,7 @@ What happens to the page when the screen becomes less than 800px wide.:
 Top of page showing logo and about section.
 ![Home Page](/UI/screenshots/3.png 'Home Page')
 
-Bottom of page shoing video and testimonials.
+Bottom of page showing video and testimonials.
 
 ## Setup
 
@@ -69,8 +69,9 @@ The page will reload when you make changes.
 
 <!-- `npm run dev`
 
+
 Runs the server. Open [http://localhost:XXXX](http://localhost:XXXX) to view it in your browser. I am also using nodemon.
- -->
+-->
 
 ## Usage
 
